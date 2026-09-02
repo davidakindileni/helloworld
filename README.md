@@ -8,7 +8,7 @@ The goal of writing this software was to test and validate the complete developm
 
 Hello World Example Project
 
-[Software Demo Video](https://youtu.be/EdVYPNdwOJ4)
+[Software Demo Video](https://youtu.be/KcNHI4zuaRc)
 
 # Development Environment
 
